@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {alignment-baseline:central}
+
+#maincontainer {margin-left: auto;
+	margin-right: auto;
+	height:600px; width:800px;
+	background-color:#FFFFFF;
+	}
+	
+p { font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#6D6E71;
+	}
+	
+a {font-family:Arial, Helvetica, sans-serif;
+	color:#6D6E71;
+	font-size:12px;
+}
+	
+#intro {position:relative;
+top:40px;
+margin-left:auto;
+margin-right:auto;
+height:550px;
+width:400px;
+background-color:#FFF;
+}
+
+
+#outer {position:relative;
+	top:0px; left:0px;
+	width:800px; height:98px;
+	}
+	
+#menu {
+	position:absolute;
+	left:0px;
+	top:60px;
+	height:37px;
+	width:756px;
+	}
+	
+#networking {
+	position:relative;
+	top:8px;
+	height:30px;
+	width:60px;
+	left: 695px;
+	}
+	
+#content {
+	position:absolute;
+	margin-top:45px;
+	margin-left:215px;
+	height:377px;
+	width:540px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#6D6E71;
+	top: 93px;
+}
+
+#baseline {
+	position:relative;
+	margin-bottom:5px;
+	margin-left:20px;
+	margin-top:420px;
+	height:26px;
+	width:730px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#6D6E71;
+	
+}
