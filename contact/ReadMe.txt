@@ -1,34 +1,21 @@
-------------------------------------------------------------------
-SF OLD REPUBLIC v1.1, created by ShyWedge, 1999.
-------------------------------------------------------------------
-
-The following TrueType fonts are included:
-
- - SF Old Republic
- - SF Old Republic, Italic
- - SF Old Republic, Bold
- - SF Old Republic, Bold Italic
- - SF Old Republic SC
- - SF Old Republic SC, Italic
- - SF Old Republic SC, Bold
- - SF Old Republic SC, Bold Italic
-
-v1.1 UPDATES
-------------------------------------------------------------------
-
- - Improved lettering, spacing, and kerning.
- - Includes limited punctuation.
- - Small Caps version has been added.
+___Contact Form code from html-form-guide.com___
+See the article here: 
+http://www.html-form-guide.com/contact-form/creating-a-contact-form.html
 
 
-This font package is Freeware.  If you wish to distribute it,
-please include all of the above fonts along with this document
-and send me an e-mail to let me know which font you have so I can
-inform you of the latest updates.
+Installing the form____
+1. Edit the file contactform.php and update your email address.
 
-Thank you for downloading this font package and enjoy!
+2. Upload the entire folder to your web site. 
 
-ShyFonts by ShyWedge, 1999.
-------------------------------------------------------------------
-Web Site:  http://welcome.to/ShyFonts
-E-mail:    ShyWedge@yahoo.com
+3. Link to contactform.php or embed using iframe.
+see: http://www.html-form-guide.com/contact-form/embed-contact-form.html
+
+You can customize almost every aspect of this form.
+
+Visit html-form-guide.com for more info.
+
+
+License____
+This program is free software published under the terms of the GNU Lesser General Public License.
+You can freely use it on commercial or non-commercial websites. 
